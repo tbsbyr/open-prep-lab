@@ -413,7 +413,7 @@ function App() {
             <BookOpen size={21} />
           </div>
           <div>
-            <h1>Open Prep Lab</h1>
+            <h1>Eugen's Prep Lab</h1>
             <p>Opening prep on top of the Lichess masters + community databases</p>
           </div>
         </div>
